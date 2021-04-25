@@ -1,4 +1,6 @@
 # covid19tracker
+Covid 19 Tracker build in Vue js 3 and Tailwind
+API from "www.covid19api.com"
 
 ## Project setup
 ```
